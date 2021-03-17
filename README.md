@@ -1,5 +1,6 @@
 # Yoga-Website-responsive-bootstrap
 bootstrap, responsive, clean layout website
+sample website created by me used bootsrap and responsive layout design.
 ![yoga1](https://user-images.githubusercontent.com/63362359/110457172-5ca8ba00-80f0-11eb-9671-6ee60f815b4d.png)
 ![22](https://user-images.githubusercontent.com/63362359/110457182-603c4100-80f0-11eb-9485-06bbfa74f6fd.png)
 ![3](https://user-images.githubusercontent.com/63362359/110457203-6500f500-80f0-11eb-8c86-8d33189d1751.png)
